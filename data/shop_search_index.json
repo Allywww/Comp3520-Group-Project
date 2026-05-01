@@ -1,0 +1,3143 @@
+{
+  "shops": [
+    {
+      "shop_id": "ifc_l1_aesop_1088b_l1",
+      "name": "Aesop",
+      "code": "1088B",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "aesop",
+        "beauty",
+        "fragrance",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_alexandre_zouari_1019c_l1",
+      "name": "Alexandre Zouari",
+      "code": "1019C",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "alexandre",
+        "fashion",
+        "zouari"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_apple_store_1100_03_l1",
+      "name": "Apple Store",
+      "code": "1100 – 03",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "apple",
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "store"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_arabica_1050_l1",
+      "name": "% Arabica",
+      "code": "1050",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "arabica",
+        "beverage",
+        "food"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_armani_beauty_1090_l1",
+      "name": "Armani Beauty",
+      "code": "1090",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "armani",
+        "beauty",
+        "fragrance",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1063_l1",
+      "name": "夿萐咖啡",
+      "code": "1063",
+      "level": 1,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "specialty",
+        "夿萐咖啡"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_ba_sh_1026_27_l1",
+      "name": "ba&sh",
+      "code": "1026-27",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "ba",
+        "fashion",
+        "sh"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_beyorg_1091b_l1",
+      "name": "BEYORG有機無限",
+      "code": "1091B",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "beyorg有機無限",
+        "fragrance",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_bobbi_brown_1025b_l1",
+      "name": "Bobbi Brown",
+      "code": "1025B",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "bobbi",
+        "brown",
+        "fragrance",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1096a_l1",
+      "name": "布克兄弟",
+      "code": "1096A",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "布克兄弟"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_calvin_klein_underwear_1096b_l1",
+      "name": "CALVIN KLEIN UNDERWEAR",
+      "code": "1096B",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "calvin",
+        "fashion",
+        "klein",
+        "underwear"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_chanel_beaut_1060_l1",
+      "name": "CHANEL BEAUTÉ",
+      "code": "1060",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "beauté",
+        "chanel",
+        "fragrance",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_chapter_1081_l1",
+      "name": "chapter",
+      "code": "1081",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "chapter",
+        "electronics",
+        "lifestyle",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1062_l1",
+      "name": "吃茶三千",
+      "code": "1062",
+      "level": 1,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "specialty",
+        "吃茶三千"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1011_12_l1",
+      "name": "周生生",
+      "code": "1011 – 12",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "周生生"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_city_super_1041_49_l1",
+      "name": "city’super",
+      "code": "1041 – 49",
+      "level": 1,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "city",
+        "drinks",
+        "food",
+        "gourmet",
+        "specialty",
+        "super"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_cl_de_peau_beaut_1059b_c_l1",
+      "name": "Clé de Peau Beauté",
+      "code": "1059B&C",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "beauté",
+        "clé",
+        "de",
+        "fragrance",
+        "peau",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_club_monaco_1039_l1",
+      "name": "Club Monaco",
+      "code": "1039",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "club",
+        "fashion",
+        "monaco"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_cova_pasticceria_confetteria_1023_l1",
+      "name": "COVA PASTICCERIA & CONFETTERIA",
+      "code": "1023",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "confetteria",
+        "cova",
+        "food",
+        "pasticceria"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_devialet_1025a_l1",
+      "name": "DEVIALET",
+      "code": "1025A",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "devialet",
+        "electronics",
+        "lifestyle",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_diesel_1053b_l1",
+      "name": "DIESEL",
+      "code": "1053B",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "diesel",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_dior_beauty_1092_93_l1",
+      "name": "Dior Beauty",
+      "code": "1092-93",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "dior",
+        "fragrance",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_diptyque_1083_85_l1",
+      "name": "Diptyque",
+      "code": "1083-85",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "diptyque",
+        "fragrance",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_dyson_1035_l1",
+      "name": "dyson",
+      "code": "1035",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "dyson",
+        "electronics",
+        "lifestyle",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_falcone_1082_l1",
+      "name": "FALCONE",
+      "code": "1082",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "falcone",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_flannel_flowers_1040b_l1",
+      "name": "flannel flowers",
+      "code": "1040B",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "flannel",
+        "flowers",
+        "lifestyle",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_godiva_chocolatier_1029_30_l1",
+      "name": "GODIVA Chocolatier",
+      "code": "1029 – 30",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "chocolatier",
+        "food",
+        "godiva"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_grown_alchemist_1036_l1",
+      "name": "GROWN ALCHEMIST",
+      "code": "1036",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "alchemist",
+        "beauty",
+        "fragrance",
+        "grown",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_hole_foods_la15_l1",
+      "name": "Hole Foods",
+      "code": "LA15",
+      "level": 1,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "foods",
+        "gourmet",
+        "hole",
+        "specialty"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_hublot_1002a_l1",
+      "name": "HUBLOT",
+      "code": "1002A",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "hublot"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_iwc_schaffhausen_1003a_l1",
+      "name": "IWC Schaffhausen",
+      "code": "1003A",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "iwc",
+        "schaffhausen"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1009a_l1",
+      "name": "積家",
+      "code": "1009A",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "積家"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_jo_malone_london_1079_l1",
+      "name": "Jo Malone London",
+      "code": "1079",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "jo",
+        "london",
+        "malone",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1020_l1",
+      "name": "奇華餅家",
+      "code": "1020",
+      "level": 1,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "specialty",
+        "奇華餅家"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_kiehl_s_since_1851_1065_l1",
+      "name": "Kiehl’s Since 1851",
+      "code": "1065",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "1851",
+        "beauty",
+        "fragrance",
+        "kiehl",
+        "since",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_la_maison_valmont_1086_l1",
+      "name": "La Maison VALMONT",
+      "code": "1086",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "la",
+        "maison",
+        "skincare",
+        "valmont",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_la_prairie_1077_l1",
+      "name": "la prairie",
+      "code": "1077",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "la",
+        "prairie",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1009_l1",
+      "name": "老鋪黃金",
+      "code": "1009",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "老鋪黃金"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_le_labo_1080_l1",
+      "name": "Le Labo",
+      "code": "1080",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "labo",
+        "le",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1016_l1",
+      "name": "亮視點",
+      "code": "1016",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "亮視點"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1051_l1",
+      "name": "瓏驤",
+      "code": "1051",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "瓏驤"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1006_07_l1",
+      "name": "浪琴",
+      "code": "1006-07",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "浪琴"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_lululemon_athletica_1098a_b_l1",
+      "name": "lululemon athletica",
+      "code": "1098A&B",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "athletica",
+        "fashion",
+        "lululemon"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_lush_1019a_l1",
+      "name": "LUSH",
+      "code": "1019A",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "lush",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_mabelle_1013_l1",
+      "name": "MaBelle",
+      "code": "1013",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "mabelle"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_madia_1018c_l1",
+      "name": "Madia",
+      "code": "1018C",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "madia"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_maison_margiela_1056_57_l1",
+      "name": "Maison Margiela 馬吉拉香氛",
+      "code": "1056-57",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "maison",
+        "margiela",
+        "skincare",
+        "wellness",
+        "馬吉拉香氛"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_maje_1052b_l1",
+      "name": "Maje",
+      "code": "1052B",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "maje"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_malin_goetz_1008_l1",
+      "name": "(MALIN+GOETZ)",
+      "code": "1008",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "goetz",
+        "malin",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_max_co_1053a_l1",
+      "name": "MAX&Co.",
+      "code": "1053A",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "co",
+        "fashion",
+        "max"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_milkfill_la19_l1",
+      "name": "Milkfill",
+      "code": "LA19",
+      "level": 1,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "milkfill",
+        "specialty"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_miu_miu_beauty_la1_l1",
+      "name": "Miu Miu Beauty",
+      "code": "LA1",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "miu",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_monica_vinader_1025c_l1",
+      "name": "MONICA VINADER",
+      "code": "1025C",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "monica",
+        "vinader"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1005_l1",
+      "name": "萬寶龍",
+      "code": "1005",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "萬寶龍"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_nars_1059a_l1",
+      "name": "NARS",
+      "code": "1059A",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "nars",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_nespresso_1058a_l1",
+      "name": "Nespresso",
+      "code": "1058A",
+      "level": 1,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "nespresso",
+        "specialty"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_nodi_1104a_l1",
+      "name": "nodi",
+      "code": "1104A",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "nodi"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_omotesando_koffee_1032_l1",
+      "name": "OMOTESANDO KOFFEE",
+      "code": "1032",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "koffee",
+        "omotesando"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_omusubi_1061_l1",
+      "name": "OMUSUBI",
+      "code": "1061",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "omusubi"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_palace_ifc_1058b_l1",
+      "name": "PALACE ifc",
+      "code": "1058B",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "ifc",
+        "palace"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_pandora_1017_l1",
+      "name": "PANDORA",
+      "code": "1017",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "pandora"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1003b_l1",
+      "name": "沛納海",
+      "code": "1003B",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "沛納海"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_paul_lafayet_1104b_l1",
+      "name": "Paul Lafayet",
+      "code": "1104B",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "lafayet",
+        "paul"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_pierre_marcolini_1040a_l1",
+      "name": "PIERRE MARCOLINI",
+      "code": "1040A",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "marcolini",
+        "pierre"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_polo_ralph_lauren_1038_l1",
+      "name": "POLO RALPH LAUREN",
+      "code": "1038",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "lauren",
+        "polo",
+        "ralph"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_pret_a_manger_1015_l1",
+      "name": "Pret A Manger",
+      "code": "1015",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "manger",
+        "pret"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_rituals_1066_l1",
+      "name": "RITUALS",
+      "code": "1066",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "rituals",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_royal_selangor_1033_l1",
+      "name": "Royal Selangor",
+      "code": "1033",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "royal",
+        "selangor"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_sabatini_la7_l1",
+      "name": "SABATINI 意大利餐廳",
+      "code": "LA7",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "sabatini",
+        "意大利餐廳"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_sam_edelman_1028_l1",
+      "name": "Sam Edelman",
+      "code": "1028",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "edelman",
+        "fashion",
+        "sam"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_sephora_1073_75_l1",
+      "name": "Sephora",
+      "code": "1073-75",
+      "level": 1,
+      "category": "Department Stores & Large Multi-Brand Retailers",
+      "building": "IFC Mall",
+      "keywords": [
+        "brand",
+        "department",
+        "large",
+        "multi",
+        "retailers",
+        "sephora",
+        "stores"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1087_l1",
+      "name": "資生堂",
+      "code": "1087",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "skincare",
+        "wellness",
+        "資生堂"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_smartone_1021_l1",
+      "name": "SmarTone",
+      "code": "1021",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "smartone"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1088a_l1",
+      "name": "雪花秀",
+      "code": "1088A",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "skincare",
+        "wellness",
+        "雪花秀"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_sunglass_hut_1001_l1",
+      "name": "sunglass hut",
+      "code": "1001",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "hut",
+        "lifestyle",
+        "services",
+        "sunglass"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1019b_l1",
+      "name": "施华洛世奇",
+      "code": "1019B",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "施华洛世奇"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1099_l1",
+      "name": "泰格豪雅",
+      "code": "1099",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "泰格豪雅"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_tea_wg_1022_l1",
+      "name": "Tea WG",
+      "code": "1022",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "tea",
+        "wg"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_the_cakery_x_maya_1105a_l1",
+      "name": "The Cakery x maya",
+      "code": "1105A",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "cakery",
+        "food",
+        "maya",
+        "the"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_the_new_black_optical_1018a_b_l1",
+      "name": "The New Black Optical",
+      "code": "1018A&B",
+      "level": 1,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "black",
+        "books",
+        "electronics",
+        "lifestyle",
+        "new",
+        "optical",
+        "services",
+        "the"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_theory_1052a_l1",
+      "name": "Theory",
+      "code": "1052A",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "theory"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_tory_burch_1037_l1",
+      "name": "TORY BURCH",
+      "code": "1037",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "burch",
+        "fashion",
+        "tory"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_trufflebakery_la13_l1",
+      "name": "TruffleBAKERY",
+      "code": "LA13",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "trufflebakery"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_1010_l1",
+      "name": "帝舵表",
+      "code": "1010",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "帝舵表"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_venchi_1055_l1",
+      "name": "Venchi",
+      "code": "1055",
+      "level": 1,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "venchi"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_ysl_beaut_1076_l1",
+      "name": "YSL BEAUTÉ",
+      "code": "1076",
+      "level": 1,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "beauté",
+        "fragrance",
+        "skincare",
+        "wellness",
+        "ysl"
+      ]
+    },
+    {
+      "shop_id": "ifc_l1_zara_1067_72_l1",
+      "name": "ZARA",
+      "code": "1067-72",
+      "level": 1,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "zara"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_acne_studios_2086_l2",
+      "name": "Acne Studios",
+      "code": "2086",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "acne",
+        "fashion",
+        "studios"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_apple_store_2091_95_l2",
+      "name": "Apple Store",
+      "code": "2091 – 95",
+      "level": 2,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "apple",
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "store"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2041_l2",
+      "name": "愛彼",
+      "code": "2041",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "愛彼"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_bang_olufsen_2008_09_l2",
+      "name": "Bang & Olufsen",
+      "code": "2008 – 09",
+      "level": 2,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "bang",
+        "books",
+        "electronics",
+        "lifestyle",
+        "olufsen",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_bottega_veneta_2038_l2",
+      "name": "Bottega Veneta",
+      "code": "2038",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "bottega",
+        "fashion",
+        "veneta"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_boucheron_2028a_l2",
+      "name": "Boucheron",
+      "code": "2028A",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "boucheron",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_brioni_2040_l2",
+      "name": "Brioni",
+      "code": "2040",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "brioni",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_brunello_cucinelli_2037_l2",
+      "name": "Brunello Cucinelli",
+      "code": "2037",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "brunello",
+        "cucinelli",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_bvlgari_2056_l2",
+      "name": "BVLGARI",
+      "code": "2056",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "bvlgari",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_canada_goose_2088_l2",
+      "name": "Canada Goose",
+      "code": "2088",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "canada",
+        "fashion",
+        "goose"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2066_l2",
+      "name": "卡地亞",
+      "code": "2066",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "卡地亞"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_celine_2076_l2",
+      "name": "CELINE",
+      "code": "2076",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "celine",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_chanel_fashion_2075_l2",
+      "name": "CHANEL Fashion",
+      "code": "2075",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "chanel",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_chanel_shoes_2077_79_2080_l2",
+      "name": "CHANEL Shoes",
+      "code": "2077-79 & 2080",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "chanel",
+        "fashion",
+        "shoes"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_chanel_watches_and_fine_jewellery_2072_73_l2",
+      "name": "CHANEL Watches and Fine Jewellery",
+      "code": "2072-73",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "and",
+        "chanel",
+        "fashion",
+        "fine",
+        "jewellery",
+        "watches"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_chaumet_2055_l2",
+      "name": "CHAUMET",
+      "code": "2055",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "chaumet",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_chlo_2062_63_l2",
+      "name": "Chloé",
+      "code": "2062-63",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "chloé",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2036_l2",
+      "name": "蕭邦",
+      "code": "2036",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "蕭邦"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_dalloyau_2028_l2",
+      "name": "DALLOYAU",
+      "code": "2028",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "dalloyau",
+        "food"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_damiani_2082_l2",
+      "name": "Damiani",
+      "code": "2082",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "damiani",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_dunhill_2089b_l2",
+      "name": "dunhill",
+      "code": "2089B",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "dunhill",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_enoteca_2001a_l2",
+      "name": "ENOTECA",
+      "code": "2001A",
+      "level": 2,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "enoteca",
+        "food",
+        "gourmet",
+        "specialty"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_ex_nihilo_2027_l2",
+      "name": "EX NIHILO",
+      "code": "2027",
+      "level": 2,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "ex",
+        "fragrance",
+        "nihilo",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_4_2012_l2",
+      "name": "4口",
+      "code": "2012",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "4口",
+        "beverage",
+        "food"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2058_l2",
+      "name": "法穆蘭",
+      "code": "2058",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "法穆蘭"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2023_l2",
+      "name": "斐登",
+      "code": "2023",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "斐登"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_georg_jensen_2030_l2",
+      "name": "Georg Jensen",
+      "code": "2030",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "georg",
+        "jensen"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_golden_goose_deluxe_brand_2087_l2",
+      "name": "Golden Goose Deluxe Brand®",
+      "code": "2087",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "brand",
+        "deluxe",
+        "fashion",
+        "golden",
+        "goose"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_jiang_nan_by_crystal_jade_2018_20_l2",
+      "name": "Jiang Nan by Crystal Jade 江南 · 翡翠",
+      "code": "2018 – 20",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "by",
+        "crystal",
+        "food",
+        "jade",
+        "jiang",
+        "nan",
+        "江南",
+        "翡翠"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_kapok_2011_l2",
+      "name": "Kapok",
+      "code": "2011",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "kapok"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_kiki_kiki_2017_l2",
+      "name": "KiKi麵店（KiKi茶）",
+      "code": "2017",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "kiki茶",
+        "kiki麵店"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_kklue_2004a_l2",
+      "name": "KKLUE",
+      "code": "2004A",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "kklue"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2016_l2",
+      "name": "米炊",
+      "code": "2016",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "米炊"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_la_maison_du_chocolat_2006_l2",
+      "name": "La Maison du Chocolat",
+      "code": "2006",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "chocolat",
+        "du",
+        "food",
+        "la",
+        "maison"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_lady_m_new_york_2096a_l2",
+      "name": "Lady M New York",
+      "code": "2096A",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "lady",
+        "new",
+        "york"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_lady_m_new_york_la16_l2",
+      "name": "Lady M New York",
+      "code": "LA16",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "lady",
+        "new",
+        "york"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2032_l2",
+      "name": "萊儷",
+      "code": "2032",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "萊儷"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_laur_l_2033_l2",
+      "name": "Laurèl",
+      "code": "2033",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "laurèl"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_le_salon_de_th_de_jo_l_robuchon_2045a_l2",
+      "name": "LE SALON DE THÉ de Joël Robuchon",
+      "code": "2045A",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "de",
+        "food",
+        "joël",
+        "le",
+        "robuchon",
+        "salon",
+        "thé"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_le_salon_de_th_de_jo_l_robuchon_la3_l2",
+      "name": "LE SALON DE THÉ de Joël Robuchon",
+      "code": "LA3",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "de",
+        "food",
+        "joël",
+        "le",
+        "robuchon",
+        "salon",
+        "thé"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2026_l2",
+      "name": "徠卡",
+      "code": "2026",
+      "level": 2,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "徠卡"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_lifetastic_patisserie_2096b_l2",
+      "name": "LIFETASTIC Patisserie",
+      "code": "2096B",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "lifetastic",
+        "patisserie"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2001b_l2",
+      "name": "至醇酒庫",
+      "code": "2001B",
+      "level": 2,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "specialty",
+        "至醇酒庫"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_loewe_2060_l2",
+      "name": "LOEWE",
+      "code": "2060",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "loewe"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_loro_piana_2046_47_l2",
+      "name": "LORO PIANA",
+      "code": "2046-47",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "loro",
+        "piana"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_maison_margiela_2081_l2",
+      "name": "Maison Margiela",
+      "code": "2081",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "maison",
+        "margiela"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_mannings_plus_2004_l2",
+      "name": "Mannings Plus",
+      "code": "2004",
+      "level": 2,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "mannings",
+        "plus",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_marni_2083_l2",
+      "name": "MARNI",
+      "code": "2083",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "marni"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_max_mara_2057_l2",
+      "name": "Max Mara",
+      "code": "2057",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "mara",
+        "max"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_mcdonald_s_mccafe_2022_l2",
+      "name": "McDonald’s & McCafe",
+      "code": "2022",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "mccafe",
+        "mcdonald"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_mikimoto_2035_l2",
+      "name": "MIKIMOTO",
+      "code": "2035",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "mikimoto"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_moleskine_2015_l2",
+      "name": "Moleskine",
+      "code": "2015",
+      "level": 2,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "moleskine",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2067_69_l2",
+      "name": "盟可睞",
+      "code": "2067 – 69",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "盟可睞"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_oliver_peoples_2005_l2",
+      "name": "OLIVER PEOPLES",
+      "code": "2005",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "oliver",
+        "peoples"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_paul_smith_2024_25_l2",
+      "name": "Paul Smith",
+      "code": "2024-25",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "paul",
+        "smith"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_pierre_herm_paris_2029_l2",
+      "name": "Pierre Hermé Paris",
+      "code": "2029",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "hermé",
+        "paris",
+        "pierre"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_pomellato_2039_l2",
+      "name": "Pomellato",
+      "code": "2039",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "pomellato"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_qeelin_2059_l2",
+      "name": "Qeelin",
+      "code": "2059",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "qeelin"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_qeelin_la17_l2",
+      "name": "Qeelin",
+      "code": "LA17",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "qeelin"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2042_l2",
+      "name": "勞力士",
+      "code": "2042",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "勞力士"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_samsonite_2013_l2",
+      "name": "Samsonite",
+      "code": "2013",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "samsonite"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_sbakery_by_mama_soo_la10_l2",
+      "name": "SBAKERY BY MAMA SOO",
+      "code": "LA10",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "by",
+        "food",
+        "mama",
+        "sbakery",
+        "soo"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_self_portrait_2002_03_l2",
+      "name": "self-portrait",
+      "code": "2002-03",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "portrait",
+        "self"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_starbucks_coffee_2097_98_l2",
+      "name": "Starbucks Coffee",
+      "code": "2097 – 98",
+      "level": 2,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "coffee",
+        "food",
+        "starbucks"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_stella_mccartney_2090_l2",
+      "name": "Stella McCartney",
+      "code": "2090",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "mccartney",
+        "stella"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_the_whisky_library_2034_l2",
+      "name": "The Whisky Library",
+      "code": "2034",
+      "level": 2,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "library",
+        "specialty",
+        "the",
+        "whisky"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_tiffany_co_2065_l2",
+      "name": "Tiffany & Co.",
+      "code": "2065",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "co",
+        "fashion",
+        "tiffany"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_tom_ford_2048_49_l2",
+      "name": "TOM FORD",
+      "code": "2048 – 49",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "ford",
+        "tom"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_tumi_2010_l2",
+      "name": "TUMI",
+      "code": "2010",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "tumi"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_valentino_2070_71_l2",
+      "name": "Valentino",
+      "code": "2070-71",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "valentino"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_valextra_2084_85_l2",
+      "name": "Valextra",
+      "code": "2084-85",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "valextra"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_venini_2043_l2",
+      "name": "VENINI",
+      "code": "2043",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "venini"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_victorinox_2021_l2",
+      "name": "VICTORINOX",
+      "code": "2021",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "victorinox"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_wedgwood_2031_l2",
+      "name": "Wedgwood",
+      "code": "2031",
+      "level": 2,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "wedgwood"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_2089a_l2",
+      "name": "沃爾福特",
+      "code": "2089A",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "沃爾福特"
+      ]
+    },
+    {
+      "shop_id": "ifc_l2_zegna_2050_53_l2",
+      "name": "Zegna",
+      "code": "2050 – 53",
+      "level": 2,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "zegna"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_45r_3083_l3",
+      "name": "45R",
+      "code": "3083",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "45r",
+        "accessories",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_agn_s_b_la_loggia_bis_3002_05_l3",
+      "name": "agnès b. LA LOGGIA bis",
+      "code": "3002 – 05",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "agnès",
+        "bis",
+        "fashion",
+        "la",
+        "loggia"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_aigle_3081_l3",
+      "name": "AIGLE",
+      "code": "3081",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "aigle",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_alice_olivia_by_stacey_bendet_3078b_l3",
+      "name": "alice + olivia by Stacey Bendet",
+      "code": "3078B",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "alice",
+        "bendet",
+        "by",
+        "fashion",
+        "olivia",
+        "stacey"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_american_vintage_3085a_l3",
+      "name": "American Vintage",
+      "code": "3085A",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "american",
+        "fashion",
+        "vintage"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_anteprima_3079_80_l3",
+      "name": "ANTEPRIMA",
+      "code": "3079-80",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "anteprima",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_apple_store_3093_97_l3",
+      "name": "Apple Store",
+      "code": "3093 – 97",
+      "level": 3,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "apple",
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "store"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3089_90_l3",
+      "name": "始祖鳥",
+      "code": "3089-90",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "始祖鳥"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_atsuro_tayama_3085b_l3",
+      "name": "ATSURO TAYAMA",
+      "code": "3085B",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "atsuro",
+        "fashion",
+        "tayama"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_blue_bottle_coffee_3077_l3",
+      "name": "Blue Bottle Coffee",
+      "code": "3077",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "blue",
+        "bottle",
+        "coffee",
+        "food"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_bookazine_3092c_l3",
+      "name": "Bookazine",
+      "code": "3092C",
+      "level": 3,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "bookazine",
+        "books",
+        "electronics",
+        "lifestyle",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_can_lah_3075_l3",
+      "name": "CaN LaH",
+      "code": "3075",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "can",
+        "food",
+        "lah"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3101_07_l3",
+      "name": "唐述",
+      "code": "3101-07",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "唐述"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_creed_3007_l3",
+      "name": "CREED",
+      "code": "3007",
+      "level": 3,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "creed",
+        "fragrance",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3101_07_guojinxuan_l3",
+      "name": "國金軒",
+      "code": "3101 – 07",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "國金軒"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_dedica_restaurant_lounge_bar_3025_26_l3",
+      "name": "Dedica Restaurant Lounge & Bar",
+      "code": "3025-26",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "bar",
+        "beverage",
+        "dedica",
+        "food",
+        "lounge",
+        "restaurant"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_descente_3091_l3",
+      "name": "DESCENTE",
+      "code": "3091",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "descente",
+        "fashion"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3015_l3",
+      "name": "福茗堂茶莊",
+      "code": "3015",
+      "level": 3,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "specialty",
+        "福茗堂茶莊"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_fuel_espresso_3023_l3",
+      "name": "Fuel Espresso",
+      "code": "3023",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "espresso",
+        "food",
+        "fuel"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_hobbs_3027_l3",
+      "name": "HOBBS",
+      "code": "3027",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "hobbs"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_jacadi_3092d_l3",
+      "name": "Jacadi",
+      "code": "3092D",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "jacadi"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_la_famille_3098b_l3",
+      "name": "La Famille",
+      "code": "3098B",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "famille",
+        "food",
+        "la"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_la_rambla_by_catalunya_3071_73_l3",
+      "name": "LA RAMBLA by Catalunya",
+      "code": "3071-73",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "by",
+        "catalunya",
+        "food",
+        "la",
+        "rambla"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3031_70_l3",
+      "name": "連卡佛",
+      "code": "3031 – 70",
+      "level": 3,
+      "category": "Department Stores & Large Multi-Brand Retailers",
+      "building": "IFC Mall",
+      "keywords": [
+        "brand",
+        "department",
+        "large",
+        "multi",
+        "retailers",
+        "stores",
+        "連卡佛"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_lanvin_3076_l3",
+      "name": "LANVIN",
+      "code": "3076",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "lanvin"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3008_11_l3",
+      "name": "利苑酒家",
+      "code": "3008 – 11",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "利苑酒家"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_luneurs_la5_l3",
+      "name": "Luneurs",
+      "code": "LA5",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "luneurs"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_marie_france_van_damme_3088_l3",
+      "name": "Marie France Van Damme",
+      "code": "3088",
+      "level": 3,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "damme",
+        "fragrance",
+        "france",
+        "marie",
+        "skincare",
+        "van",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_mchugs_la18_l3",
+      "name": "McHugs",
+      "code": "LA18",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "mchugs"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_moodytiger_3092b_l3",
+      "name": "moodytiger",
+      "code": "3092B",
+      "level": 3,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "moodytiger",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_my_nail_nail_3028_l3",
+      "name": "my NAIL NAIL",
+      "code": "3028",
+      "level": 3,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "my",
+        "nail",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_pata_negra_house_3012_l3",
+      "name": "Pata Negra House",
+      "code": "3012",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "house",
+        "negra",
+        "pata"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_pin_3022a_l3",
+      "name": "PIN",
+      "code": "3022A",
+      "level": 3,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "pin",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_pome_la12_l3",
+      "name": "POME",
+      "code": "LA12",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "pome"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_private_i_salon_3029_30_l3",
+      "name": "PRIVATE i SALON",
+      "code": "3029 – 30",
+      "level": 3,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "private",
+        "salon",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_pure_fitness_3082b_l3",
+      "name": "PURE Fitness",
+      "code": "3082B",
+      "level": 3,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "fitness",
+        "lifestyle",
+        "pure",
+        "services"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3020_l3",
+      "name": "金色不如帰",
+      "code": "3020",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "金色不如帰"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_royal_caviar_club_3005a_l3",
+      "name": "Royal Caviar Club",
+      "code": "3005A",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "caviar",
+        "club",
+        "food",
+        "royal"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_rue_madame_3082a_l3",
+      "name": "RUE MADAME",
+      "code": "3082A",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "madame",
+        "rue"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_sandro_3078a_l3",
+      "name": "SANDRO",
+      "code": "3078A",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "sandro"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3099_3100_l3",
+      "name": "千両",
+      "code": "3099 – 3100",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "千両"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_sheer_3006_l3",
+      "name": "Sheer",
+      "code": "3006",
+      "level": 3,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "sheer"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_simply_toys_3022b_l3",
+      "name": "Simply Toys",
+      "code": "3022B",
+      "level": 3,
+      "category": "Lifestyle, Books, Electronics & Services",
+      "building": "IFC Mall",
+      "keywords": [
+        "books",
+        "electronics",
+        "lifestyle",
+        "services",
+        "simply",
+        "toys"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_skin_laundry_3025a_l3",
+      "name": "SKIN LAUNDRY",
+      "code": "3025A",
+      "level": 3,
+      "category": "Beauty, Skincare, Fragrance & Wellness",
+      "building": "IFC Mall",
+      "keywords": [
+        "beauty",
+        "fragrance",
+        "laundry",
+        "skin",
+        "skincare",
+        "wellness"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3016_18_l3",
+      "name": "正斗粥麵專家",
+      "code": "3016 – 18",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "正斗粥麵專家"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_tonkichi_3013_l3",
+      "name": "Tonkichi - 日式吉列專門店",
+      "code": "3013",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "tonkichi",
+        "日式吉列專門店"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_vilebrequin_3092a_l3",
+      "name": "VILEBREQUIN",
+      "code": "3092A",
+      "level": 3,
+      "category": "Fashion & Accessories",
+      "building": "IFC Mall",
+      "keywords": [
+        "accessories",
+        "fashion",
+        "vilebrequin"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_3019_l3",
+      "name": "屈臣氏酒窖",
+      "code": "3019",
+      "level": 3,
+      "category": "Gourmet Food & Specialty Drinks",
+      "building": "IFC Mall",
+      "keywords": [
+        "drinks",
+        "food",
+        "gourmet",
+        "specialty",
+        "屈臣氏酒窖"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_yoku_moku_3021_l3",
+      "name": "YOKU MOKU",
+      "code": "3021",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "moku",
+        "yoku"
+      ]
+    },
+    {
+      "shop_id": "ifc_l3_yo_mama_3098a_l3",
+      "name": "YO MAMA",
+      "code": "3098A",
+      "level": 3,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "mama",
+        "yo"
+      ]
+    },
+    {
+      "shop_id": "ifc_l4_flat_iron_steak_4010_l4",
+      "name": "Flat Iron Steak",
+      "code": "4010",
+      "level": 4,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "flat",
+        "food",
+        "iron",
+        "steak"
+      ]
+    },
+    {
+      "shop_id": "ifc_l4_4011_l4",
+      "name": "挽肉と米",
+      "code": "4011",
+      "level": 4,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "挽肉と米"
+      ]
+    },
+    {
+      "shop_id": "ifc_l4_sabatini_ristorante_italiano_4008_l4",
+      "name": "Sabatini Ristorante Italiano",
+      "code": "4008",
+      "level": 4,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "italiano",
+        "ristorante",
+        "sabatini"
+      ]
+    },
+    {
+      "shop_id": "ifc_l4_shake_shack_4018_l4",
+      "name": "Shake Shack",
+      "code": "4018",
+      "level": 4,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "shack",
+        "shake"
+      ]
+    },
+    {
+      "shop_id": "ifc_l4_4001_07_l4",
+      "name": "四季菊",
+      "code": "4001 – 07",
+      "level": 4,
+      "category": "Food & Beverage",
+      "building": "IFC Mall",
+      "keywords": [
+        "beverage",
+        "food",
+        "四季菊"
+      ]
+    }
+  ],
+  "categories": [
+    "Beauty, Skincare, Fragrance & Wellness",
+    "Department Stores & Large Multi-Brand Retailers",
+    "Fashion & Accessories",
+    "Food & Beverage",
+    "Gourmet Food & Specialty Drinks",
+    "Lifestyle, Books, Electronics & Services"
+  ],
+  "search_config": {
+    "fuzzy_match_threshold": 0.4,
+    "max_results": 20,
+    "boost_exact_match": true,
+    "boost_category_match": 0.8,
+    "boost_keyword_match": 0.6
+  }
+}

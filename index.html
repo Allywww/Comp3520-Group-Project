@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IFC Hybrid Routing Prototype</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>IFC Hybrid Routing Prototype</h1>
+    <p>Hybrid pedestrian routing for IFC, Central Station, and Exchange Square.</p>
+    <div class="weather-bar" id="weatherBar">
+      <div class="weather-summary">Weather near Hong Kong Park: <span id="weatherSummary">Loading…</span></div>
+      <div class="weather-alert loading" id="weatherAlert">Fetching HKO weather alert…</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="controls">
+      <div class="page-tabs">
+        <button id="routePageBtn" class="active">Route search</button>
+        <button id="nearbyPageBtn">Nearby places</button>
+      </div>
+
+      <div id="commonControls">
+        <div class="control-row">
+          <button id="currentLocationOriginBtn">Use current location as start</button>
+          <button id="currentLocationDestinationBtn">Use current location as end</button>
+        </div>
+        <div class="control-row">
+          <span id="locationStatus" class="location-status">Current location not set</span>
+        </div>
+      </div>
+
+      <div id="routePage">
+        <div class="control-row">
+          <label for="startSelect">Start</label>
+          <select id="startSelect"></select>
+        </div>
+        <div class="control-row">
+          <label for="endSelect">Destination</label>
+          <select id="endSelect"></select>
+        </div>
+        <div class="control-row">
+          <label for="modeSelect">Optimize for</label>
+          <select id="modeSelect">
+            <option value="distance">Shortest distance</option>
+            <option value="time">Fastest time</option>
+          </select>
+        </div>
+        <div class="control-row">
+          <button id="findRouteBtn">Find route</button>
+        </div>
+        <div class="control-row search-row">
+          <input id="searchInput" type="search" placeholder="Search shops, buildings or routes" />
+          <button id="searchBtn">Search</button>
+        </div>
+        <div id="searchResults" class="search-results"></div>
+      </div>
+
+      <div id="nearbyPage" class="hidden">
+        <div class="control-row">
+          <p class="nearby-note">Nearby search requires your current location. Click the button above to enable it, then select a nearby category.</p>
+        </div>
+        <div class="control-row search-row">
+          <button id="nearbyShopsBtn">Nearby shops</button>
+          <button id="nearbyBuildingsBtn">Nearby buildings</button>
+        </div>
+        <div id="nearbyResults" class="search-results"></div>
+      </div>
+
+      <div class="control-row">
+        <label>Floor:</label>
+        <button class="floor-btn" data-floor="1">L1</button>
+        <button class="floor-btn" data-floor="2">L2</button>
+        <button class="floor-btn" data-floor="3">L3</button>
+        <button class="floor-btn" data-floor="4">L4</button>
+      </div>
+    </section>
+
+    <section class="summary">
+      <div id="routeSummary"></div>
+      <div id="routeMeta"></div>
+    </section>
+
+    <section class="map-panel">
+      <div class="map-legend">
+        <span class="legend-item legend-high-confidence">High confidence</span>
+        <span class="legend-item legend-low-confidence">Manual observation</span>
+        <span class="legend-item legend-bridge">Bridge node</span>
+        <span class="legend-item legend-user">Current location</span>
+        <span class="legend-item legend-route">Route</span>
+      </div>
+      <div class="map-container">
+        <div class="map-zoom-controls" aria-label="Map zoom controls">
+          <button id="zoomInBtn" type="button" aria-label="Zoom in">+</button>
+          <button id="zoomOutBtn" type="button" aria-label="Zoom out">-</button>
+          <button id="zoomResetBtn" type="button" aria-label="Reset zoom">Reset</button>
+        </div>
+        <div id="mapViewport" class="map-viewport">
+          <div id="floorplanOverlay" class="floorplan-overlay"></div>
+          <svg id="mapSvg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid meet"></svg>
+        </div>
+      </div>
+      <div class="route-details">
+        <h2>Instructions</h2>
+        <ol id="instructions"></ol>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Graph stored as JSON; optimized for rapid prototyping and manual updates.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
