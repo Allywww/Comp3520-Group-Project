@@ -1,5 +1,5 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: Project README
     url: https://github.com/Allywww/Comp3520-Group-Project/blob/main/README.md
-    about: Check the project README and setup instructions before opening a new issue.
+    about: Review the project overview and setup details before opening an issue.
